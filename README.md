@@ -8,7 +8,7 @@
 <div align="center">
 <a href="mailto:oulachgarjamal@gmail.com"><img src="https://img.shields.io/badge/Email-oulachgarjamal@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://linkedin.com/in/jamal-oulachgar"><img src="https://img.shields.io/badge/LinkedIn-jamal--oulachgar-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://jamaloulachgar-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-jamaloulachgar.netlify.app-blue?style=flat-square&logo=netlify"></a>
+<a href="https://oulachgarjamal.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-jamaloulachgar.netlify.app-blue?style=flat-square&logo=netlify"></a>
 </div>
 
 ### Languages and Tools:
