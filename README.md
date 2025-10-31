@@ -101,8 +101,3 @@ I am a first-year Master’s student in Data Science and Engineering at Mohammed
 [![Introduction to Python – 365 Data Science](https://img.shields.io/badge/365%20Data%20Science-Intro%20to%20Python-yellow?style=flat-square)](https://learn.365datascience.com/c/106e7a7284/)
 [![Introduction to Jupyter – 365 Data Science](https://img.shields.io/badge/365%20Data%20Science-Intro%20to%20Jupyter-yellow?style=flat-square)](https://learn.365datascience.com/c/2f41637f99/)
 
-### Interests
-- Swimming 🏊‍♂️  
-- Photography 📸  
-- Cooking 🍳  
-- Sports (Gym) 💪
