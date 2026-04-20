@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center"> 👋🏻 JAMAL OULACHGAR</h1>
-<h3 align="center">JR. DATA SCIENTIST</h3>
+<h3 align="center">JR. DATA SCIENTIST & AI Engineer </h3>
 
 <div align="center">
 <a href="mailto:oulachgarjamal@gmail.com"><img src="https://img.shields.io/badge/Email-oulachgarjamal@gmail.com-blue?style=flat-square&logo=gmail"></a>
